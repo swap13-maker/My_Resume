@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .jumbotron{
+    background-image: url("logo/logo1.avif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+} */
+
+/* .back_img{
+    background-image: url("logo/back_img4.avif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+} */
+
+
+.c1:hover {
+    transform: scale(0.95);
+    box-shadow: 10px 10px 5px lightgrey ;
+}
+
+.hero_img:hover {
+    transform: scale(1.1);  
+}
+
+.col-lg-4:hover {
+    transform: scale(1.1);
+    
+}
+
+.hero_img {
+    width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
