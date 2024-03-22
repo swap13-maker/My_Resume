@@ -38,7 +38,11 @@
     width: 200px;
 }
 
-
+.image_style {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
 
 
 
